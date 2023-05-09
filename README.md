@@ -1,4 +1,7 @@
 ### Hi there 👋
+# My name is Alex. 
+*I wanna find intresting work, get good salary, visit my foreign friends and change country for living maybe, that's why Im start programming.*
+
 
 <!--
 **AlexOnlyPro/AlexOnlyPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
